@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# logs
+*.log
+
+# build outputs
+android/app/build/
+ios/Pods/
+build/
+dist/
+
+# system files
+.DS_Store
+.env

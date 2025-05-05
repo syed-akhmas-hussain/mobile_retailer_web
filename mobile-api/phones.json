@@ -1,0 +1,86 @@
+[
+  {
+    "brand": "Apple",
+    "model": "iPhone 13 Pro Max",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+    "price": "$1099",
+    "specs": {
+      "display": "6.7\" Super Retina XDR OLED",
+      "chipset": "A15 Bionic",
+      "ram": "6 GB",
+      "storage": "128/256/512 GB, 1 TB",
+      "battery": "4352 mAh",
+      "camera": "12MP + 12MP + 12MP"
+    }
+  },
+  {
+    "brand": "Realme",
+    "model": "GT Neo2",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt-neo2.jpg",
+    "price": "$399",
+    "specs": {
+      "display": "6.62\" AMOLED, 120Hz",
+      "chipset": "Snapdragon 870",
+      "ram": "6/8/12 GB",
+      "storage": "128/256 GB",
+      "battery": "5000 mAh",
+      "camera": "64MP + 8MP + 2MP"
+    }
+  },
+  {
+    "brand": "Google",
+    "model": "Pixel 6 Pro",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+    "price": "$899",
+    "specs": {
+      "display": "6.71\" LTPO AMOLED, 120Hz",
+      "chipset": "Google Tensor",
+      "ram": "12 GB",
+      "storage": "128/256/512 GB",
+      "battery": "5003 mAh",
+      "camera": "50MP + 48MP + 12MP"
+    }
+  },
+  {
+    "brand": "Vivo",
+    "model": "X70 Pro+",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/vivo-x70-pro-plus.jpg",
+    "price": "$799",
+    "specs": {
+      "display": "6.78\" AMOLED, 120Hz",
+      "chipset": "Snapdragon 888+",
+      "ram": "8/12 GB",
+      "storage": "128/256/512 GB",
+      "battery": "4500 mAh",
+      "camera": "50MP + 8MP + 12MP + 48MP"
+    }
+  },
+  {
+    "brand": "Sony",
+    "model": "Xperia 1 III",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iii.jpg",
+    "price": "$1299",
+    "specs": {
+      "display": "6.5\" OLED, 120Hz",
+      "chipset": "Snapdragon 888",
+      "ram": "12 GB",
+      "storage": "256/512 GB",
+      "battery": "4500 mAh",
+      "camera": "12MP + 12MP + 12MP + 0.3MP TOF"
+    }
+  },
+  {
+    "brand": "Asus",
+    "model": "ROG Phone 5",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/asus-rog-phone-5.jpg",
+    "price": "$699",
+    "specs": {
+      "display": "6.78\" AMOLED, 144Hz",
+      "chipset": "Snapdragon 888",
+      "ram": "8/12/16 GB",
+      "storage": "128/256 GB",
+      "battery": "6000 mAh",
+      "camera": "64MP + 13MP + 5MP"
+    }
+  }
+]
